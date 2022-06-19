@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kvsco (You Yong Bin)
-- 👀 I’m interested in MMORPG, Cycling, cafe coding☕️
-- 🌱 I’m currently learning ML / DL for time series data
+- 👀 I’m interested in MMORPG, Cycling, cafe ☕️(coding)
+- 🌱 I’m currently studying AI-Ops (ML,DL)
 - 💞️ I’m looking to collaborate on ......
 - 📫 How to reach me ==> nngjk@naver.com
 
