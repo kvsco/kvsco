@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @kvsco (You Yong Bin)
-- 👀 I’m interested in MMORPG, Cycling, cafe ☕️(coding)
-- 🌱 I’m currently studying AI-Ops (ML,DL)
-- 💞️ I’m looking to collaborate on ......
+- 👋 I’m @kvsco
+- 🌱 I’m currently studying AIops (deep learning, machine learning for time series)
+
 - 📫 How to reach me ==> nngjk@naver.com
 
 <!---
