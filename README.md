@@ -1,5 +1,5 @@
 - 👋 I’m @kvsco
-- 🌱 I’m currently studying AIops (deep learning, machine learning for time series)
+- 🌱 I’m currently studying AIops (for time-series)
 
 - 📫 How to reach me ==> nngjk@naver.com
 
