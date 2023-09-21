@@ -1,7 +1,7 @@
-- 👋 I’m @kvsco
+- 👋 @kvsco
 - 🌱 I’m currently studying AIops (for time-series)
 
-- 📫 How to reach me ==> nngjk@naver.com
+- 📫 
 
 <!---
 kvsco/kvsco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
